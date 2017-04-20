@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62" started-at="2017-04-20T12:52:07Z" finished-at="2017-04-20T12:52:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62" started-at="2017-04-20T12:52:07Z" finished-at="2017-04-20T12:52:07Z">
+      <class name="com.learnautomationmaven.demomaven">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.learnautomationmaven.demomaven@5dfcfece]" name="test" duration-ms="49" started-at="2017-04-20T08:52:07Z" finished-at="2017-04-20T08:52:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.learnautomationmaven.demomaven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
